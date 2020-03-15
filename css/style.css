@@ -92,6 +92,7 @@ h1 {
 .logo {
 	display: block;
 	background-image: url('../img/logo.png');
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	width: 181px;
 	height: 49px;
